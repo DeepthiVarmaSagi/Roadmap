@@ -1,2 +1,2 @@
 # Roadmap
-A Set of Roadmaps designed based on real-time scenarios in Technology
+Set of Roadmaps designed based on real-time scenarios in Technology
